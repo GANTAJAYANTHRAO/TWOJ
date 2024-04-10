@@ -1,0 +1,32 @@
+.h1{
+    padding-left: 500px;
+    color:rgb(255, 255, 255);
+}
+
+
+.body{
+    background-image: url(T.W.O.J_BG.png);
+}
+
+
+.C1{
+    background-color: #407a1f;
+    height: 150px;
+    width: 300px;
+    text-align: center;
+    align-content: center;
+    border-radius: 35px;
+}
+
+.h2{
+    color: aliceblue;
+}
+
+.course{
+    display: flex;
+    gap: 30px;
+    flex-direction: row; /* Align items vertically */
+    align-items: center; /* Center items horizontally */
+    justify-content: center; /* Center items vertically */
+
+}
