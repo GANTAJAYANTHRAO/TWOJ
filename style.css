@@ -1,32 +1,53 @@
-.h1{
-    padding-left: 500px;
-    color:rgb(255, 255, 255);
-}
-
-
 .body{
     background-image: url(T.W.O.J_BG.png);
+    
+    
+}
+
+.img{
+    height: 275px;
+    width: 275px;
+    border-radius: 50%;
+    margin-top: 100px;
+    position: fixed;
 }
 
 
-.C1{
-    background-color: #407a1f;
-    height: 150px;
-    width: 300px;
-    text-align: center;
-    align-content: center;
-    border-radius: 35px;
+.logo{
+    height: 275px;
+    width: 275px;
+    border-radius: 100%;
+    margin-top: 5px;
+    margin-left: 60px;
+    position: center;
+
 }
 
-.h2{
+
+
+.h1{
     color: aliceblue;
+    text-align: center;
 }
 
-.course{
-    display: flex;
-    gap: 30px;
-    flex-direction: row; /* Align items vertically */
-    align-items: center; /* Center items horizontally */
-    justify-content: center; /* Center items vertically */
 
+.about_h1{
+    margin-left: 800px;
+    margin-top: 65px;
+    color: white;
+    text-decoration: underline;
+}
+
+.about{
+    display: flex;
+    gap: 150px;
+    
+}
+
+.h3{
+    color: white;
+}
+
+.br{
+    text-decoration: underline;
 }
